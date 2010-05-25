@@ -1,0 +1,15 @@
+= Arcath's Rake Tasks
+
+== About
+
+These rake tasks provide useful rake tasks that I wrote to make my life easier
+
+== Requirements
+
+ - Ruby
+ - Rake 
+ - Bash (Although ive not tried it in anything else)
+ 
+= Rake Tasks
+
+{rake-t}
