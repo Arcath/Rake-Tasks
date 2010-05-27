@@ -6,7 +6,7 @@ namespace :arake do
 			branch = args[:branch] || "master"
 			system("git add #{files}")
 			system("git commit -m '#{args[:commit]}'")
-			system("git push orign #{branch}")
+			system("git push origin #{branch}")
 			
 		end
 	
