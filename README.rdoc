@@ -12,4 +12,9 @@ These rake tasks provide useful rake tasks that I wrote to make my life easier
  
 = Rake Tasks
 
-{rake-t}
+    rake arake:git:commit[commit,files,branch]  # Commit to a the git repository
+    rake arake:git:init[parent]                 # Perform a git init and connec...
+    rake arake:test                             # A test / A test
+    rake directory                              # Outputs the directory set in ...
+    rake remove                                 # Removes the rake task installer
+    rake setup                                  # Installs the Rake Tasks
